@@ -1,0 +1,12 @@
+{
+  "type": "cobbleblockcore:ancient_forest",
+  "generator": {
+    "type": "cobbleblockcore:fixed_seed_noise",
+    "settings": "minecraft:overworld",
+    "seed": 1922393360843319768,
+    "biome_source": {
+      "type": "minecraft:fixed",
+      "biome": "minecraft:dark_forest"
+    }
+  }
+}

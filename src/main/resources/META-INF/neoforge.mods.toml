@@ -13,6 +13,9 @@ Mod that adds core functionality of the Cobbleblock modpack.
 '''
 #logoFile = ""
 
+[[mixins]]
+config = "cobbleblockcore.mixins.json"
+
 [[dependencies.cobbleblockcore]]
 modId = "minecraft"
 mandatory = true

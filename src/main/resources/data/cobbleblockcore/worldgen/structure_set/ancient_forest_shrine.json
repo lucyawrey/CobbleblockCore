@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "cobbleblockcore:ancient_forest_shrine",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 192239336,
+    "spacing": 1,
+    "separation": 0
+  }
+}

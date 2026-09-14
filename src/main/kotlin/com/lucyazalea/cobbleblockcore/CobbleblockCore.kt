@@ -1,4 +1,4 @@
-package com.cobblemon.example
+package com.lucyazalea.cobbleblockcore
 
 import com.cobblemon.mod.common.api.pokemon.PokemonSpecies
 import net.minecraft.commands.Commands
@@ -7,10 +7,15 @@ import net.minecraft.network.chat.Style
 import net.minecraft.resources.ResourceLocation
 import net.neoforged.bus.api.SubscribeEvent
 import net.neoforged.fml.common.Mod
+import net.neoforged.neoforge.common.NeoForge
 import net.neoforged.neoforge.event.RegisterCommandsEvent
 
-@Mod("cobblemon_neoforge_mdk")
-class ExampleNeoForgeMod {
+@Mod("cobbleblockcore")
+class CobbleblockCore {
+    init {
+        NeoForge.EVENT_BUS.register(this)
+    }
+
     @SubscribeEvent
     fun onCommandRegistration(event: RegisterCommandsEvent) {
         event.dispatcher.register(

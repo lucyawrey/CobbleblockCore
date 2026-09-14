@@ -8,8 +8,8 @@ plugins {
 }
 
 
-group = "org.example" // TODO: You might want to change it to your group
-version = "1.0-SNAPSHOT"
+group = "com.lucyazalea"
+version = "1.0.0"
 
 architectury {
     platformSetupLoomIde()

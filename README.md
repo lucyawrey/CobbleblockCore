@@ -1,9 +1,9 @@
 # Cobbleblock Core
-Core mod for custom features in the (Cobbleblock)[https://github.com/lucyawrey/cobbleblock] modpack.
+Core mod for custom features in the [Cobbleblock](https://github.com/lucyawrey/cobbleblock) modpack.
 
 ---
 
-**\*License**: This mod's source code and assets are licensed under the Mozilla Public License 2.0.\*
+***License**: This mod's source code and assets are licensed under the Mozilla Public License 2.0.*
 
 **_Cobbleblock is not affiliated with Pokémon nor Minecraft._**
 

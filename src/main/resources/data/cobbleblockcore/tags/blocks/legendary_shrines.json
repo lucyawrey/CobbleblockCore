@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "cobbleblockcore:articuno_shrine",
+    "cobbleblockcore:zapdos_shrine",
+    "cobbleblockcore:moltres_shrine",
+    "cobbleblockcore:lugia_shrine",
+    "cobbleblockcore:mew_shrine",
+    "cobbleblockcore:hooh_shrine",
+    "cobbleblockcore:celebi_shrine"
+  ]
+}

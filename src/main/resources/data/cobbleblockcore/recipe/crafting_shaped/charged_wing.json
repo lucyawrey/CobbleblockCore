@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "g": {
+      "item": "cobblemon:flying_gem"
+    },
+    "D": {
+      "item": "minecraft:gold_ingot"
+    },
+    "G": {
+      "item": "cobblemon:electric_gem"
+    },
+    "N": {
+      "item": "cobblemon:electirizer"
+    },
+    "F": {
+      "item": "cobblemon:health_feather"
+    }
+  },
+  "pattern": [
+    "gDG",
+    "NFN",
+    "GDg"
+  ],
+  "result": {
+    "count": 1,
+    "id": "cobbleblockcore:charged_wing"
+  }
+}

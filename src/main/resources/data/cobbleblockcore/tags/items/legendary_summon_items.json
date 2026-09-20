@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "cobbleblockcore:arctic_wing",
+    "cobbleblockcore:charged_wing",
+    "cobbleblockcore:molten_wing",
+    "cobbleblockcore:fragile_ocarina",
+    "cobbleblockcore:ancient_fossil",
+    "cobbleblockcore:rainbow_feather",
+    "cobbleblockcore:time_flute",
+    "cobbleblockcore:blue_feather",
+    "cobbleblockcore:red_feather",
+    "cobbleblockcore:yellow_feather",
+    "cobbleblockcore:ancient_fossil_piece",
+    "cobbleblockcore:ancient_fossil_dust",
+    "cobbleblockcore:ancient_dna",
+    "cobbleblockcore:articuno_orb",
+    "cobbleblockcore:zapdos_orb",
+    "cobbleblockcore:moltres_orb"
+  ]
+}

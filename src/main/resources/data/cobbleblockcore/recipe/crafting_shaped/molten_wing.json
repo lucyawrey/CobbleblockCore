@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "g": {
+      "item": "cobblemon:flying_gem"
+    },
+    "D": {
+      "item": "minecraft:iron_ingot"
+    },
+    "G": {
+      "item": "cobblemon:fire_gem"
+    },
+    "N": {
+      "item": "cobblemon:flame_orb"
+    },
+    "F": {
+      "item": "cobblemon:muscle_feather"
+    }
+  },
+  "pattern": [
+    "gDG",
+    "NFN",
+    "GDg"
+  ],
+  "result": {
+    "count": 1,
+    "id": "cobbleblockcore:molten_wing"
+  }
+}

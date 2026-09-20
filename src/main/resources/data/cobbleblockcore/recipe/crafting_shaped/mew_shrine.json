@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": {
+      "item": "mega_showdown:pedestal"
+    },
+    "F": {
+      "tag": "cobblemon:tumblestones"
+    },
+    "M": {
+      "item": "minecraft:mossy_cobblestone"
+    },
+    "A": {
+      "item": "minecraft:amethyst_block"
+    },
+    "R": {
+      "item": "cobblemon:twisted_spoon"
+    }
+  },
+  "pattern": [
+    "FAF",
+    "RPR",
+    "FMF"
+  ],
+  "result": {
+    "count": 1,
+    "id": "cobbleblockcore:mew_shrine"
+  }
+}

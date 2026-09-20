@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "Y": {
+      "item": "minecraft:yellow_dye"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "C": {
+      "item": "minecraft:clay_ball"
+    },
+    "F": {
+      "item": "cobblemon:flying_gem"
+    },
+    "W": {
+      "item": "cobblemon:water_gem"
+    },
+    "P": {
+      "item": "cobblemon:psychic_gem"
+    }
+  },
+  "pattern": [
+    "YCC",
+    "FWP",
+    "D  "
+  ],
+  "result": {
+    "count": 1,
+    "id": "cobbleblockcore:fragile_ocarina"
+  }
+}

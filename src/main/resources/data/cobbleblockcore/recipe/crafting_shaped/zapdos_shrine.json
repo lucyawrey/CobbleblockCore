@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": {
+      "item": "mega_showdown:pedestal"
+    },
+    "F": {
+      "item": "minecraft:feather"
+    },
+    "B": {
+      "item": "minecraft:yellow_concrete"
+    },
+    "R": {
+      "item": "cobblemon:magnet"
+    }
+  },
+  "pattern": [
+    "FBF",
+    "RPR",
+    "FBF"
+  ],
+  "result": {
+    "count": 1,
+    "id": "cobbleblockcore:zapdos_shrine"
+  }
+}

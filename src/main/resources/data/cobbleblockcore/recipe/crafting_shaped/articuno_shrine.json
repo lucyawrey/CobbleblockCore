@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": {
+      "item": "mega_showdown:pedestal"
+    },
+    "F": {
+      "item": "minecraft:feather"
+    },
+    "B": {
+      "item": "minecraft:blue_ice"
+    },
+    "R": {
+      "item": "cobblemon:icy_rock"
+    }
+  },
+  "pattern": [
+    "FBF",
+    "RPR",
+    "FBF"
+  ],
+  "result": {
+    "count": 1,
+    "id": "cobbleblockcore:articuno_shrine"
+  }
+}

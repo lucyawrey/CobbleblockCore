@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": {
+      "item": "mega_showdown:pedestal"
+    },
+    "F": {
+      "item": "minecraft:feather"
+    },
+    "B": {
+      "item": "minecraft:crimson_planks"
+    },
+    "R": {
+      "item": "cobblemon:charcoal_stick"
+    }
+  },
+  "pattern": [
+    "FBF",
+    "RPR",
+    "FBF"
+  ],
+  "result": {
+    "count": 1,
+    "id": "cobbleblockcore:hooh_shrine"
+  }
+}

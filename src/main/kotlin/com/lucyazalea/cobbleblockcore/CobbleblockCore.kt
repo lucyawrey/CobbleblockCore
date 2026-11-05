@@ -2,6 +2,7 @@ package com.lucyazalea.cobbleblockcore
 
 import com.lucyazalea.cobbleblockcore.structure.AncientForestShrineStructure
 import com.lucyazalea.cobbleblockcore.structure.ShrinePiece
+import net.neoforged.neoforge.common.NeoForge
 import net.neoforged.fml.common.Mod
 import net.neoforged.fml.ModLoadingContext
 import net.neoforged.neoforge.registries.DeferredRegister
@@ -18,7 +19,9 @@ class CobbleblockCore {
         CHUNK_GENERATORS.register(requireNotNull(ModLoadingContext.get().activeContainer.eventBus))
         STRUCTURE_TYPES.register(requireNotNull(ModLoadingContext.get().activeContainer.eventBus))
         STRUCTURE_PIECES.register(requireNotNull(ModLoadingContext.get().activeContainer.eventBus))
-        // NeoForge.EVENT_BUS.register(this) uncomment if adding events
+        LegendaryContent.BLOCKS.register(requireNotNull(ModLoadingContext.get().activeContainer.eventBus))
+        LegendaryContent.ITEMS.register(requireNotNull(ModLoadingContext.get().activeContainer.eventBus))
+        NeoForge.EVENT_BUS.register(LegendaryShrineHandler)
     }
 
     private companion object {
